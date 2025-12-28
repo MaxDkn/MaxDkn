@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaxDkn, I'm 17 yo (2008) 
 - 🇫🇷 I'm French, i live in Rennes.
-- 🌱 I’m currently learning Python, AI and C.
+- 🌱 I’m currently learning Python, AI and Rust.
 - 📫 Reach out to me: max.deckmyn@gmail.com
